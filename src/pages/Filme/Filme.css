@@ -1,0 +1,9 @@
+.filme-info {
+    max-width: 900px;
+    display: flex;
+    flex-direction: column;
+}
+
+.filme-info img {
+    border-radius: 50px;
+}
